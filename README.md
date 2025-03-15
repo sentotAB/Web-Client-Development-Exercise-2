@@ -1,4 +1,5 @@
 EXERCISE-2 
+
 1.	50° FAHRENHEIT IS 10° CELSIUS 
 JavaScript :
 // Convertion Temperature From Fahrenheit to Celcius
