@@ -6,7 +6,7 @@ function ConvertionTemp(fahrenheit) {
 
 // Example in usage
 
-let tempF = 50; 
+let tempF = 122; 
 let tempC = ConvertionTemp(tempF);
 
 console.log(`Temperature converted = ${tempC}°C`);
