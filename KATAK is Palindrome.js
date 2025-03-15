@@ -3,4 +3,4 @@ function isPalindrome(s) {
 }
 
 // Example in usage
-console.log(`'KATAK' is palindrome: ${isPalindrome('KATAK')}`); // True
+console.log(`'KOPIKO' is palindrome: ${isPalindrome('KOPIKO')}`); // True
